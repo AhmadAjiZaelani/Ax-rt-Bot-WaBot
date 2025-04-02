@@ -99,8 +99,7 @@ const store = makeInMemoryStore({
 console.log(
   chalk.green.bold(`
     --------------------------------------
-    ☘️ Selamat datang di Takeshi-WaBot
-  terimakasih telah menggunakan script ini 👍
+    ☘Welcome To Script AxèrtáBot-BluzeAJ☘
     --------------------------------------
   `),
 );
@@ -336,7 +335,7 @@ Perangkat telah terhubung, berikut detailnya:
               forwardedNewsletterMessageInfo: {
                 newsletterJid: config.id.newsletter,
                 serverMessageId: 20,
-                newsletterName: "Takeshi | Playground",
+                newsletterName: "AxèrtáBot | BluzeAJ",
               },
             },
           });
@@ -366,7 +365,7 @@ Perangkat telah terhubung, berikut detailnya:
               forwardedNewsletterMessageInfo: {
                 newsletterJid: config.id.newsletter,
                 serverMessageId: 20,
-                newsletterName: "Takeshi | Playground",
+                newsletterName: "AxèrtáBot | BluzeAJ",
               },
             },
           });
@@ -396,7 +395,7 @@ Perangkat telah terhubung, berikut detailnya:
               forwardedNewsletterMessageInfo: {
                 newsletterJid: config.id.newsletter,
                 serverMessageId: 20,
-                newsletterName: "Takeshi | Playground",
+                newsletterName: "AxèrtáBot | BluzeAJ",
               },
             },
           });
@@ -426,7 +425,7 @@ Perangkat telah terhubung, berikut detailnya:
               forwardedNewsletterMessageInfo: {
                 newsletterJid: config.id.newsletter,
                 serverMessageId: 20,
-                newsletterName: "Takeshi | Playground",
+                newsletterName: "AxèrtáBot | BluzeAJ",
               },
             },
           });
