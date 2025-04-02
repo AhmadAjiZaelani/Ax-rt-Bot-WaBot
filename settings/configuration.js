@@ -1,19 +1,19 @@
 const fs = require("fs");
 
 const config = {
-  author: "KuroTakeshi",
-  botNumber: "0",
-  database: "takeshi-database",
+  author: "BluzeAJ",
+  botNumber: "085117057679",
+  database: "AxèrtáBot-database",
   inviteCode: "CtnxNzmlxLOJqeSlxdQXTz",
-  name: "- Takeshi - Simple WhatsApp bot",
+  name: "- AxèrtáBot - BluzeAJ",
   owner: ["0", "0"],
   prefix: ["!", ".", "#", "/"],
   sessions: "sessions",
   tz: "Asia/Jakarta",
 
   id: {
-    group: "1@g.us",
-    newsletter: "1@newsletter",
+    group: "120363359087059188@g.us",
+    newsletter: "120363383421246482@newsletter",
   },
 
   style: {
@@ -39,9 +39,9 @@ const config = {
     autoWelcome: false,
     demoteNotification: false,
     dmOnly: false,
-    groupBotOnly: false,
-    groupOnly: false,
-    online: false,
+    groupBotOnly: true,
+    groupOnly: true,
+    online: true,
     promoteNotification: false,
     readChat: false,
     readSw: false,
@@ -87,15 +87,15 @@ const config = {
   sticker: {
     androidApp:
       "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
-    author: "🐾 Lorenzxz 🐾",
-    email: "lorenzxz@gmail.com",
+    author: "☘ AxèrtáBot ☘",
+    email: "BluzeAJ@gmail.com",
     emojis: [],
     iOSApp:
       "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
     isAvatar: 0,
-    packId: "https://github.com/Lorenzxz",
-    packname: "✨ NekoPack ✨",
-    website: "https://github.com/Lorenzxz",
+    packId: "https://github.com/BluzeAJ",
+    packname: "☘ AxèrtáBot ☘",
+    website: "https://github.com/BluzeAJ",
   },
 };
 
